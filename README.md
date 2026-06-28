@@ -1,4 +1,11 @@
+
+<img src="https://raw.githubusercontent.com/GraceW18/GraceW18/main/grace-wang-bounce.gif" width="520" alt="header bouncing letter animation"/>
+<hr>
+  
 ![Grace Wang GitHub Header](./grace_wang_github_header.svg)
+
+<hr>
+
 
 ## Tech Stack
 Technologies:
