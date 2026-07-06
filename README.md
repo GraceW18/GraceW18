@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/GraceW18/GraceW18/main/grace-wang-bounce.gif" width="520" alt="header bouncing letter animation"/>
 <hr>
   
-![Grace Wang GitHub Header](./grace_wang_github_header.svg)
+![GitHub Header](./grace_wang_github_header.svg)
 
 <hr>
 </div>
@@ -61,7 +61,9 @@
 <img src="star-bullet.svg" width="18" alt=""/> Certifications from <a href="girls-who-code-2022.png"><img align="top" src="https://img.shields.io/badge/Girls%20Who%20Code-24CBB3?style=for-the-badge" alt="Girls Who Code Certificate"/></a> & <a href="udacity-genai-fundamentals.pdf"><img align="top" src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity Certificate"/></a>
 </p>
 
-#### Open to Internships, Co-ops, & Fellowships | Building Things That Matter
+<div align="center"> <h3> Open to Internships, Co-ops, & Fellowships | Building Things That Matter </h3> </div>
+
+![GitHub Footer](./footer-animation.svg)
 
 <!--
 About Me: Name, What I Do, Main Areas of Interest/Expertise in Tech
