@@ -55,12 +55,11 @@
   </a> -->
 
 <h2 align="center"> Achievements & Certifications</h2>
-- 2x Hackathon Winner
-- Published a Policy Memo in the Journal of Science Policy & Governance (Check it out here!): 
-
-[ORCID](https://orcid.org/my-orcid?orcid=0009-0005-1772-7569)
-
-Certifications from Girls Who Code & Udacity 
+<p>
+<img src="star-bullet.svg" width="18" alt=""/> 2x Hackathon Winner<br>
+<img src="star-bullet.svg" width="18" alt=""/> Published a Policy Memo in the Journal of Science Policy & Governance — <a href="https://orcid.org/0009-0005-1772-7569">check it out here</a><br>
+<img src="star-bullet.svg" width="18" alt=""/> Certifications from <a href="girls-who-code-2022.png"><img align="top" src="https://img.shields.io/badge/Girls%20Who%20Code-24CBB3?style=for-the-badge" alt="Girls Who Code Certificate"/></a> & <a href="udacity-genai-fundamentals.pdf"><img align="top" src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity Certificate"/></a>
+</p>
 
 #### Open to Internships, Co-ops, & Fellowships | Building Things That Matter
 
