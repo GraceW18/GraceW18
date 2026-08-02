@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22" fill="none">
+  <g style="transform-origin:11px 19px">
+    <animateTransform attributeName="transform" type="rotate"
+      values="-6 11 19;6 11 19;-6 11 19"
+      dur="3.5s" repeatCount="indefinite"/>
+    <rect x="3" y="3" width="7" height="16" rx="1" stroke="#1a1a1a" stroke-width="1.5"/>
+    <rect x="12" y="3" width="7" height="16" rx="1" stroke="#1a1a1a" stroke-width="1.5"/>
+    <line x1="3" y1="7" x2="10" y2="7" stroke="#1a1a1a" stroke-width="1.2"/>
+  </g>
+</svg>
