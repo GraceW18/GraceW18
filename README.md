@@ -3,6 +3,15 @@
   
 ![GitHub Header](./grace_wang_github_header.svg)
 
+  <div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&pause=2000&color=1A1A1A&center=true&vCenter=true&width=600&height=80&lines=Currently...;As+of+Today...;Right+Now...;This+Week...)](https://git.io/typing-svg)
+<br>
+
+<!-- table to be added -->
+
+  </div>
+
 </div>
 <h3 align="center"> Currently Working On: Audio to Sheet Music Converter
 <h3 align="center"> Currently Learning: 
