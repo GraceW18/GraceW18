@@ -5,9 +5,17 @@
 
   <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&pause=2000&color=1A1A1A&center=true&vCenter=true&width=600&height=80&lines=Currently...;As+of+Today...;Right+Now...;This+Week...)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&pause=2000&color=E8E8E8&center=true&vCenter=true&width=600&height=80&lines=Currently...;As+of+Today...;Right+Now...;This+Week...">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&pause=2000&color=1A1A1A&center=true&vCenter=true&width=600&height=80&lines=Currently...;As+of+Today...;Right+Now...;This+Week..."
+    alt="Currently...">
+</picture>
 
-![Currently](./currently.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./currently-darkmode.svg">
+  <img src="./currently-lightmode.svg" alt="Currently">
+</picture>
 
   </div>
 </div>
