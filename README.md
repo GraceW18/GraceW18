@@ -10,13 +10,7 @@
 ![Currently](./currently.svg)
 
   </div>
-
 </div>
-<h3 align="center"> Currently Working On: Audio to Sheet Music Converter
-<h3 align="center"> Currently Learning: 
-  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 <h2 align="center"> Where to Reach Me: </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/grace-wang-sy/">
