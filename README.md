@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/GraceW18/GraceW18/main/grace-wang-bounce.gif" width="520" alt="header bouncing letter animation"/>
-<hr>
+<img src="https://raw.githubusercontent.com/GraceW18/GraceW18/main/header_animation.gif" width="520" alt="header bouncing letter animation"/>
   
 ![GitHub Header](./grace_wang_github_header.svg)
 
-<hr>
 </div>
 <h3 align="center"> Currently Working On: Audio to Sheet Music Converter
 <h3 align="center"> Currently Learning: 
