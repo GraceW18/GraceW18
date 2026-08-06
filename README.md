@@ -4,18 +4,6 @@
 ![GitHub Header](./grace_wang_github_header.svg)
 
   <div align="center">
-    
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&pause=2000&color=E8E8E8&center=true&vCenter=true&width=600&height=80&lines=Currently...;As+of+Today...;Right+Now...;This+Week...">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&pause=2000&color=1A1A1A&center=true&vCenter=true&width=600&height=80&lines=Currently...;As+of+Today...;Right+Now...;This+Week..."
-    alt="Currently...">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./currently-darkmode.svg">
-  <img src="./currently-lightmode.svg" alt="Currently">
-</picture>
 
   </div>
 </div>
@@ -24,13 +12,10 @@
   <a href="https://www.linkedin.com/in/grace-wang-sy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:grace.w.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- 
-  <a href="YOUR-PORTFOLIO-URL">
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <a href="https://grace-w-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  -->
 </p>
 
 <h2 align="center"> Tech Stack </h2>
