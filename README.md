@@ -42,16 +42,15 @@
   </tr>
 </table>
 
-<!-- Personal Blog/Website: WIP
-<a href="YOUR-PORTFOLIO-URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a> -->
-
 <h2 align="center"> Achievements & Certifications</h2>
 <p>
 <img src="star-bullet.svg" width="18" alt=""/> 2x Hackathon Winner<br>
 <img src="star-bullet.svg" width="18" alt=""/> Published a Policy Memo in the Journal of Science Policy & Governance — <a href="https://orcid.org/0009-0005-1772-7569">check it out here</a><br>
-<img src="star-bullet.svg" width="18" alt=""/> Certifications from <a href="girls-who-code-2022.png"><img align="top" src="https://img.shields.io/badge/Girls%20Who%20Code-24CBB3?style=for-the-badge" alt="Girls Who Code Certificate"/></a> & <a href="udacity-genai-fundamentals.pdf"><img align="top" src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity Certificate"/></a>
+<img src="star-bullet.svg" width="18" alt=""/> Certifications from <a href="girls-who-code-2022.png"><img align="top" src="https://img.shields.io/badge/Girls%20Who%20Code-24CBB3?style=for-the-badge" alt="Girls Who Code Certificate"/></a>, <a href="udacity-genai-fundamentals.pdf"><img align="top" src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity Certificate"/></a>, & <a href="https://www.credly.com/badges/4a1b3c32-394d-40d3-873e-685450fd6da2/public_url"><img
+    align="top"                                                                                                                                                                              src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"
+    alt="Google Cloud Certificate"
+  />
+</a>
 </p>
 
 <div align="center"> <h3> Open to Internships, Co-ops, & Fellowships | Building Things That Matter </h3> </div>
